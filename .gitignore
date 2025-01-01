@@ -1,0 +1,8 @@
+# Ignore .pyc files
+*.pyc
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore all files in site-packages
+patient-trigger/lib/python3.11/site-packages/
